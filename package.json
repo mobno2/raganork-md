@@ -1,27 +1,27 @@
 {
-  "name": "raganork",
+  "name": "TentionNOTFOUND",
   "version": "2.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "TentionNOTFOUND whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/mobno2/raganork-md"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Ashmi",
+  "developer": "@mobno2",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/souravkl11/raganork/issues"
   },
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/mobno2/raganork-md#readme",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
     "@adiwajshing/keyed-db":"0.2.4",
